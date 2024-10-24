@@ -1,2 +1,2 @@
 # Database-Tasks-
-In this I cover database queries using My SQL . How to create update tables . Here I cover all concepts of database .
+This repository contains MySQL queries developed as part of my current university coursework this semester. The queries demonstrate practical applications of database management concepts, including various SQL operations and optimizations.
